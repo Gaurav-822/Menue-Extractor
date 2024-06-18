@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeminiApi</string>
+    <string name="action_go">Go</string>
+    <string name="app_title">Use of Gemini API</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Give a JSON output of the items present here including fields item name, item price and veg/ non veg, fill with null if not present in the menue for each item</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
